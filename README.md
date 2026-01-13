@@ -1,0 +1,1 @@
+Word splitter using dynamic programming. Input is dictionary of words and a list of words to be split using provided dictionary. Output is list of splitted words (along with if they can be split, and if so, into how many words)
